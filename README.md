@@ -10,11 +10,11 @@
 
 ## Preview Desktop
 
-<img src="">
+<img src="./assets/Preview-Desktop.PNG">
 
 ## Preview Mobile
 
-<img src="">
+<img src="./assets/Preview-Mobile.PNG">
 
 # Tecnologias utilizadas
 
