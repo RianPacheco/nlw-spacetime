@@ -1,6 +1,6 @@
 # NLW-SPACETIME &copy; Rian Pacheco 🚀
 
-### link do projeto - 🚧
+### link do projeto - rianpacheco.github.io/nlw-spacetime/
 
  Projeto feito 100% para didática e colocar em pratica as tecnologias em front-end.
 
