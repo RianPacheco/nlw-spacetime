@@ -8,26 +8,26 @@
  
  <p>Caso tenham interesse aos desafios acessem o <a href="https://www.figma.com/community/file/1240071097028170811">figma</a> </p>
 
-## Preview Desktop
+## Preview Desktop 💻
 
 <img src="./assets/Preview-Desktop.PNG">
 
-## Preview Mobile
+## Preview Mobile 📱
 
 <img src="./assets/Preview-Mobile.PNG">
 
-# Tecnologias utilizadas
+# Tecnologias utilizadas 🔆
 
-## Front end
+## Front end 💎
 - HTML
 - CSS
 - Figma 
 
-## Implantação em produção
+## Implantação em produção ✨
 - GITHUB
 - GIT
 
-# Autor
+# Autor ©
 
 &copy; <a href="https://www.linkedin.com/in/rian-pacheco/"> Rian Pacheco</a>
 
